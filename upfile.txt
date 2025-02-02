@@ -9,3 +9,6 @@ git add -A
 
 ** git commit -a -m "message"
 last line
+
+
+gitignore was taught
