@@ -1,1 +1,3 @@
 Initial file where this is just to get familiar with the stages of git from working tree > staging area > git local Dir>push
+
+learned about sit status -s (jusut for updating random info is added to this file) .
