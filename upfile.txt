@@ -1,1 +1,1 @@
-git show e5c64ac6cadc1fa87c6e5e1d2037c2f7cfd640ae shows the detail about the commit
+git log --since=1.day show s the detail about all the logs from the day the repo was created
