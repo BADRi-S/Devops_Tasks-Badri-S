@@ -1,0 +1,30 @@
+Devops
+======
+Dev+ops
+used method
+SDLC(software development life cycle) + ITIL(IT infrastructure Library)
+
+Phases of methodology:
+======================
+1) Waterfall from 1970~2000+
+2) Agile from 2000~current day's
+3) Devops [currently used and will be used until any thing new is introduced]
+
+SDLC model>> Lean model >> ITIL >> Agile
+
+(**) DevOps stakeholders(**)
+============================
+People who play a important role in using devops in their company product cycle
+
+7C's of devops:
+===============
+1.continuous development
+2.continuous integration
+3.continuous testing
+4.continuous deployment
+5.continuous feedback
+6.continuous Monitoring
+7.continuous Operations 
+
+Important Terminology:
+======================
