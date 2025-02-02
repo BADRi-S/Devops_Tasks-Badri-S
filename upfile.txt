@@ -6,3 +6,5 @@ git add file1 file 2 file 3
 git add *
 git add .
 git add -A
+
+** git commit -a -m "message"
