@@ -1,0 +1,1 @@
+Initial file where this is just to get familiar with the stages of git from working tree > staging area > git local Dir>push
