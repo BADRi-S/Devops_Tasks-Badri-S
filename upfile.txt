@@ -1,14 +1,1 @@
-Initial file where this is just to get familiar with the stages of git from working tree > staging area > git local Dir>push
-
-learned about sit status -s (jusut for updating random info is added to this file) .
-
-git add file1 file 2 file 3
-git add *
-git add .
-git add -A
-
-** git commit -a -m "message"
-last line
-
-
-gitignore was taught
+git show e5c64ac6cadc1fa87c6e5e1d2037c2f7cfd640ae shows the detail about the commit
