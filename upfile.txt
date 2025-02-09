@@ -1,1 +1,1 @@
-git log --since=1.day show s the detail about all the logs from the day the repo was created
+git commit --amend
