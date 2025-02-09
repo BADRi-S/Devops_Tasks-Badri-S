@@ -1,7 +1,7 @@
-#This file is from Dev-1010101
-date
-time 
-ls -l
-uptime 
-iostat
+#!/bin/bash
 df -h
+echo "date" >> data.txt
+last
+free -m
+df -h
+du -ksh
